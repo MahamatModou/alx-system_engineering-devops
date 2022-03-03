@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod g_rw *
+chmod g+rw *
